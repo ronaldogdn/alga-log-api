@@ -1,0 +1,12 @@
+dependências utilizadas
+1 - devTools
+2 - spring data jpa no spring->add starter
+3 - driver do mySql no spring->add starter
+4 - no application.properties colocar as configurações do jdbc
+5 - flyway migration para gerenciar as tabelas
+6 - criar a pasta db/migration em src/main/resources
+7 - jacarta persistence (antigo JPA que foi renomeado) é uma especificação
+	hibernate é uma implementação
+	spring data é uma biblioteca
+8 - jacarta bean validation
+9 - ModelMapper para fazer a conversão de objeto para objetoDTO
